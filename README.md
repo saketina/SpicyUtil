@@ -1,1 +1,1 @@
-"# corrpution-scanner" 
+"# corruption-scanner" 
