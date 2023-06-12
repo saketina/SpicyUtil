@@ -232,6 +232,9 @@ goto ASK
 
 :UPDATE
 cls
+winget upgrade --all --unknown
+pause
+goto ask
 
 :ASK
 cls
